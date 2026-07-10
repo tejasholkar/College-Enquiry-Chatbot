@@ -1,0 +1,10 @@
+Flask
+chatterbot
+chatterbot-corpus
+Flask-Recaptcha
+mysql-connector-python
+spacy
+sqlalchemy
+pytz
+MathParse
+
